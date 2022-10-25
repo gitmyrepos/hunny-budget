@@ -1,0 +1,42 @@
+mat-toolbar {
+    height: 6vh !important;
+}
+
+mat-toolbar > div {
+    width: 100%;
+}
+
+.menuBtn {
+    float: right;
+}
+
+mat-sidenav {
+    width: 15em;
+}
+
+mat-sidenav-container {
+    height: 100%;
+}
+
+#loginPageContent {
+    margin: 1em;
+    text-align: center;
+    margin-top: 3em;
+
+    button {
+        float: center !important;
+    }
+}
+
+.mat-drawer-container {
+    background-color: #feb900 !important;
+    position: inherit;
+}
+
+.googleSignin {
+    padding: 0;
+}
+
+#toolbarLogo {
+    max-height: 4vh;
+}

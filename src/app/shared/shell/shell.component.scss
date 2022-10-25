@@ -1,0 +1,23 @@
+mat-toolbar {
+    height: 6vh !important;
+}
+
+mat-toolbar > div {
+    width: 100%;
+}
+
+img {
+    max-height: 4vh;
+}
+
+button {
+    float: right;
+}
+
+.mat-drawer-container {
+    background-color: transparent !important;
+    position: inherit;
+}
+
+
+
