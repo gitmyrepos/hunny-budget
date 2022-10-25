@@ -1,5 +1,9 @@
 # BudgetApp
 
+Hunny Budget is my first Angular project. After learning some Angular basics I built this project as a proof-of-concept for a mobile budget app. The project primarily focuses on the UI/UX for mobile devices and playing around with basic Angular components. This application originated on a previous repo so the commit history is unavailable. 
+
+---
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 
 ## Development server
